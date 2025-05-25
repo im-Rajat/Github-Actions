@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 ---
 
 {% include_relative README.md %}
