@@ -8,6 +8,12 @@
   - Code analysis: Run linters, security scans, or other tools to ensure code quality.
   - Custom automation: Automate any task, such as sending notifications or managing issues.
 
+## Table of Contents
+
+- [Github Actions](#github-actions)
+- [Pull Request Event](#pull-request-event)
+- [Sample Github Actions yaml file](#sample-github-actions-yaml-file)
+
 ## Pull Request Event
 
 What is the `pull_request` Event:
